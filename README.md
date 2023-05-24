@@ -1,0 +1,1 @@
+# Script otomasi setup server
